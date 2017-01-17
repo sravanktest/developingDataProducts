@@ -1,0 +1,11 @@
+---
+title: "About Project Application"
+author: "Sravan K"
+date: "January 16, 2017"
+output: html_document
+---
+
+## Overview
+This Shiny application is part of Data Products course project. 
+The application is based on IRIS data and creates random forest model based on number of folds inputted by user.
+
